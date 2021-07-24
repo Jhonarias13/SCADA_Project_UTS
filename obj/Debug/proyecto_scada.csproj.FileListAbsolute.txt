@@ -1,0 +1,57 @@
+C:\Users\Ariel Arias\Documents\sistema ESCADA\proyecto_scada\proyecto_scada\bin\Debug\proyecto_scada.exe.config
+C:\Users\Ariel Arias\Documents\sistema ESCADA\proyecto_scada\proyecto_scada\bin\Debug\proyecto_scada.exe
+C:\Users\Ariel Arias\Documents\sistema ESCADA\proyecto_scada\proyecto_scada\bin\Debug\proyecto_scada.pdb
+C:\Users\Ariel Arias\Documents\sistema ESCADA\proyecto_scada\proyecto_scada\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Ariel Arias\Documents\sistema ESCADA\proyecto_scada\proyecto_scada\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Ariel Arias\Documents\sistema ESCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.csprojAssemblyReference.cache
+C:\Users\Ariel Arias\Documents\sistema ESCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.Form1.resources
+C:\Users\Ariel Arias\Documents\sistema ESCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.Properties.Resources.resources
+C:\Users\Ariel Arias\Documents\sistema ESCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.csproj.GenerateResource.cache
+C:\Users\Ariel Arias\Documents\sistema ESCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Arias\Documents\sistema ESCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.csproj.CopyComplete
+C:\Users\Ariel Arias\Documents\sistema ESCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.exe
+C:\Users\Ariel Arias\Documents\sistema ESCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.pdb
+C:\Users\Ariel Arias\Documents\sistema SCADA\proyecto_scada\proyecto_scada\bin\Debug\proyecto_scada.exe.config
+C:\Users\Ariel Arias\Documents\sistema SCADA\proyecto_scada\proyecto_scada\bin\Debug\proyecto_scada.exe
+C:\Users\Ariel Arias\Documents\sistema SCADA\proyecto_scada\proyecto_scada\bin\Debug\proyecto_scada.pdb
+C:\Users\Ariel Arias\Documents\sistema SCADA\proyecto_scada\proyecto_scada\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Ariel Arias\Documents\sistema SCADA\proyecto_scada\proyecto_scada\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Ariel Arias\Documents\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.csprojAssemblyReference.cache
+C:\Users\Ariel Arias\Documents\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.Form1.resources
+C:\Users\Ariel Arias\Documents\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.Properties.Resources.resources
+C:\Users\Ariel Arias\Documents\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.csproj.GenerateResource.cache
+C:\Users\Ariel Arias\Documents\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Arias\Documents\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.csproj.CopyComplete
+C:\Users\Ariel Arias\Documents\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.exe
+C:\Users\Ariel Arias\Documents\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.pdb
+C:\Users\Ariel Arias\Documents\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.Form2.resources
+C:\Users\Ariel Arias\Documents\sistema SCADA\proyecto_scada\proyecto_scada\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Ariel Arias\Documents\sistema SCADA\proyecto_scada\proyecto_scada\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Ariel Arias\Desktop\sistema SCADA\proyecto_scada\proyecto_scada\bin\Debug\proyecto_scada.exe.config
+C:\Users\Ariel Arias\Desktop\sistema SCADA\proyecto_scada\proyecto_scada\bin\Debug\proyecto_scada.exe
+C:\Users\Ariel Arias\Desktop\sistema SCADA\proyecto_scada\proyecto_scada\bin\Debug\proyecto_scada.pdb
+C:\Users\Ariel Arias\Desktop\sistema SCADA\proyecto_scada\proyecto_scada\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Ariel Arias\Desktop\sistema SCADA\proyecto_scada\proyecto_scada\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Ariel Arias\Desktop\sistema SCADA\proyecto_scada\proyecto_scada\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Ariel Arias\Desktop\sistema SCADA\proyecto_scada\proyecto_scada\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Ariel Arias\Desktop\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.csprojAssemblyReference.cache
+C:\Users\Ariel Arias\Desktop\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.Form1.resources
+C:\Users\Ariel Arias\Desktop\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.Form2.resources
+C:\Users\Ariel Arias\Desktop\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.Properties.Resources.resources
+C:\Users\Ariel Arias\Desktop\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.csproj.GenerateResource.cache
+C:\Users\Ariel Arias\Desktop\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Arias\Desktop\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.csproj.CopyComplete
+C:\Users\Ariel Arias\Desktop\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.exe
+C:\Users\Ariel Arias\Desktop\sistema SCADA\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.pdb
+C:\Users\HP\Downloads\proyecto_scada\proyecto_scada\bin\Debug\proyecto_scada.exe.config
+C:\Users\HP\Downloads\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.exe
+C:\Users\HP\Downloads\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.pdb
+C:\Users\HP\Downloads\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.Form1.resources
+C:\Users\HP\Downloads\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.Form2.resources
+C:\Users\HP\Downloads\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.Properties.Resources.resources
+C:\Users\HP\Downloads\proyecto_scada\proyecto_scada\obj\Debug\proyecto_scada.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\proyecto_scada\proyecto_scada\bin\Debug\proyecto_scada.exe
+C:\Users\HP\Downloads\proyecto_scada\proyecto_scada\bin\Debug\proyecto_scada.pdb
+C:\Users\HP\Downloads\proyecto_scada\proyecto_scada\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\HP\Downloads\proyecto_scada\proyecto_scada\bin\Debug\DevComponents.Instrumentation.xml
